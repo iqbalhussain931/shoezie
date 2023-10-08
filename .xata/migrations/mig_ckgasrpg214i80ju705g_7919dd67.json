@@ -1,0 +1,19 @@
+{
+  "id": "mig_ckgasrpg214i80ju705g",
+  "parentID": "mig_ckgasenod9uchghm1ug0",
+  "checksum": "1:7919dd6773d61f4bf40d4de45bb41b4d72e4227f0aac4add9eab8aab4eca736c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user",
+          "type": "link",
+          "link": {
+            "table": "users"
+          }
+        },
+        "table": "resolutions"
+      }
+    }
+  ]
+}

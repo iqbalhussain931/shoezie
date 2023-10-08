@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Muhammad-Iqbal-Hussain-s-workspace-i8n2tb.us-east-1.xata.sh/db/shoezie",
+  "codegen": {
+    "output": "utils/xata.ts"
+  }
+}
