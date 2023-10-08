@@ -1,0 +1,18 @@
+{
+  "id": "mig_ckfln5nod9uchghlv5b0",
+  "parentID": "mig_ckflmsvod9uchghlv5a0",
+  "checksum": "1:d47151e82f31fceb6895bde465b0ffb75f98a34b1c5ecfd8e335652efaa34866",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "year",
+          "type": "int",
+          "notNull": true,
+          "defaultValue": "2023"
+        },
+        "table": "resolutions"
+      }
+    }
+  ]
+}
